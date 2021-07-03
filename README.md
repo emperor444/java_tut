@@ -1,2 +1,2 @@
 # java_tut
-first java repository
+first java repository... coming soon....
